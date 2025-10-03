@@ -299,21 +299,6 @@ sensor_1,sensor_2,sensor_3,operational_hours
 
 ---
 
-## 🖼 Screenshots
-
-### Dashboard Overview
-![Dashboard](<img width="2454" height="1374" alt="image" src="https://github.com/user-attachments/assets/7e120219-79ee-415d-91d7-84e19b43992d" />)
-
-### 3D Sensor Visualization
-![3D Visualization](<img width="2468" height="1191" alt="image" src="https://github.com/user-attachments/assets/29d17ec2-9813-44c9-8924-3cf796d1ac5a" />)
-
-### Health Monitoring Gauge
-![Health Gauge](<img width="1014" height="731" alt="image" src="https://github.com/user-attachments/assets/93f19a8c-7f5e-4c42-ae60-25e91d1195e5" />)
-
-### Prediction Results
-![Results](<img width="1944" height="434" alt="image" src="https://github.com/user-attachments/assets/c8c20316-199a-4513-9e9d-c549bb13fb56" />)
-
----
 
 ## 🤝 Contributing
 
